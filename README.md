@@ -1,4 +1,5 @@
-![image](https://github.com/Shashi-Srivastav/Project-Simon-Saya-Game/assets/119119389/4ea97458-433c-4d81-80f8-35e2d5c75e4e)
+![image](https://github.com/Shashi-Srivastav/Project-Simon-Saya-Game/assets/119119389/afeebcff-f3f2-405a-b09c-b3cb9c897656)
+
 
 🕹️ Rediscovering Retro Joy: "Simon Says" Inspired Web Game on GitHub! 🚀
 
